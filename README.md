@@ -10,9 +10,7 @@ This repository showcases a Digital Clock crafted with HTML, CSS, and JavaScript
 
 ## Screenshots 2
 
-![App Screenshot](## Screenshots 1
-
-![App Screenshot](https://github.com/shivanshu099/Digital_clock/blob/main/Screenshot%20(168).png)
+![App Screenshot](https://github.com/shivanshu099/Digital_clock/blob/main/Screenshot%20(167).png)
 
 
 
